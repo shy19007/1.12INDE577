@@ -1,4 +1,4 @@
-# INDE 577 - Final Project - Data Science & Machine Learning
+# INDE 577 - Shaoyu Yan - Final Project - Data Science & Machine Learning
 
 **Instructor**: Randy R. Davila
 
